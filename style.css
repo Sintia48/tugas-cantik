@@ -1,0 +1,22 @@
+.Cantik {
+
+color:blue;
+font-size: 88px;
+margin-top: 10px;
+background-color: black;
+padding-top: 50px;
+font-family: 'montserrat';
+font-weight: 200;
+
+}
+
+.btn-cta {
+    background-color: #fcbb3a;
+    border-radius: 0px 18px 18px 0px;
+    font-weight: 500;
+}
+
+.btn-cta:hover {
+    background-color: #31260f;
+    color:white
+}
